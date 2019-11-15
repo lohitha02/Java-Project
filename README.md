@@ -15,7 +15,6 @@ The main features of this application are:
 
 ✔ This web app will give the user a reminder from time-to-time regarding the tasks that are still pending. Hence, the user will never forget about the task. These notification timings will be set by the user.
 
-
 Technology Stack
 Java, Java Swing, Eclipse IDE, RESTlet, Jackson, Weblogic Server, MySQL DB Server, Maven, Balsamiq, draw.io (Google Doc plugin), Hibernate.
 
