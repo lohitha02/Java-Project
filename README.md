@@ -21,8 +21,6 @@ Java, Java Swing, Eclipse IDE, RESTlet, Jackson, Weblogic Server, MySQL DB Serve
 
 This project is a client-server application. The client or front end is implemented as a web application using Java Swing.
 
-
-
 The server or back end is implemented using application servers like WebLogic, Tomcat, JBoss, etc. MySQL database server is also used in the back end to store the data. HIbernate Java library will be used to communicate with the database and to obtain the data as Java Objects. RESTlets will be used to communicate between the client and server in JavaScript Object Notation (JSON) format. The Jackson Java library is used to convert JSON to Java objects and vice versa.
 
 
