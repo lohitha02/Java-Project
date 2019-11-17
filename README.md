@@ -24,21 +24,22 @@ Classes Used:
 The following classes are used in this application:
 
 LoginPage: 
- Once authentication is successful, it allows the user to access the dashboard.
+    Once authentication is successful, it allows the user to access the dashboard.
 Dashboard: 
- It shows the list of available projects. It also allows access to the user’s profile page.
+    It shows the list of available projects. It also allows access to the user’s profile page.
 ProfilePage: 
- It contains the details of the user.
-ProjectManager: It allows the user to create, edit and/or delete a project.
+    It contains the details of the user.
+ProjectManager: 
+    It allows the user to create, edit and/or delete a project.
 Project: 
- It contains the details of the project.
+    It contains the details of the project.
 TaskManager: 
- It allows the user to create, edit and/or delete tasks belonging to a specific project.
+    It allows the user to create, edit and/or delete tasks belonging to a specific project.
 Task: 
- It contains details of the task.
+    It contains details of the task.
 RemainderManager: 
- It allows the user to create, edit and/or delete a remainder.
+    It allows the user to create, edit and/or delete a remainder.
 Remainder: 
- It contains the details of the remainder.
+    It contains the details of the remainder.
 
  There will also be a few more classes to get the data from the database. This is for the back end.
