@@ -1,5 +1,4 @@
 # Java-Project
-Introduction
 
 “Plan your work and work your plan” – Napoleon Hill
  
