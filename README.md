@@ -6,7 +6,7 @@ No matter how you work or what type of business you run, being productive is a m
 
 In the market, there are many small productivity apps available but they are not integrated. This project takes two most important features namely to-do list management and remainder management and integrates them.
 
-Features
+# Features
 
 The main features of this application are:
 
